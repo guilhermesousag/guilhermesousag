@@ -1,5 +1,5 @@
 ### Olá, sou o Guilherme Sousa!
 
 - 🔭 Estou estagiando na área de BPO Financeiro
-- 🌱 Atualmente estou fazendo curso online de programação pela Rocketseat (HTML, CSS e JS) e cursando Engenharia de Produção pela Universidade Federal de Goiás
+- 🌱 Ex estudante de Engenharia de Produção (Universidade Federal de Goiás) em transição para a área de programação.
 - 📫 Contate-me: guisg2001@hotmail.com
